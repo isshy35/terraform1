@@ -58,45 +58,6 @@ Terraform Labs brings you tutorials that help you get hands-on experience using 
 #### GCP
 
   - [Setting up Terraform for Google Cloud Platform](beginners/gcp/README.md)
-  - Terraform vs Google Deployment Manager
-  - Launch a Compute Engine Instance
-  - Create a New VPC and Public Subnet
-  - Auto Scale and Load Balance the Managed Instance Groups
-  - Deploy a web server
-  - Cleaning Up
-
-## Managing Terraform State
- 
-  - What is Terraform State
-  - Shared Storage for State Files
-  - Locking State Files
-  - Isolating State Files
-  - File Layouts
-  - Read-only States
-  - Import Terraform state
-
-## Terraform Backends
-
-  - What are terraform backends ?
-  - List of supported Remote backends 
-  - Using remote backends in a collaborative environments
-
-## Terraform Modules
-
-  - Why Terraform Modules
-  - When to write Terraform Modules
-
-
-## Terraform Enterprise (TFE)
-  - Additional features of TFE
-  - Integration of TFE with Github
-  - Creating organisation
-  - Configuring backends
-
-
-- [Intermediate Track](./intermediate/README.md) - In-Progress
-
-- [Experts Track](./experts/README.md) - Not Started
 
 
 # Terraform Associate Certification
