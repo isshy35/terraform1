@@ -7,11 +7,13 @@
 
 Terraform Labs brings you tutorials that help you get hands-on experience using Terraform, Kubernetes & Cloud. Here you will find complete documentation of labs and tutorials around Terraform CLI, Configuration Language, sub-commands, providers, Registry and much more..
 
-#  Getting Started in 3 Simple Steps
+#  Getting Started
 
 - Fork, This repository
+- Read the material in the Overview
+- Work on the terraform beginners track
 
-# Terraform Workshop/Labs
+# Terraform Overview
 
 - [Getting Started: Why, What & How about Terraform?](getting-started/README.md) 
    - [The problem of provisioning everything manually](getting-started/the-problem.md)
