@@ -9,7 +9,7 @@ Terraform Labs brings you tutorials that help you get hands-on experience using 
 
 #  Getting Started
 
-- Fork, This repository
+- Fork this repository
 - Read the material in the Overview
 - Work on the terraform beginners track
 
