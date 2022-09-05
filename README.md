@@ -44,16 +44,16 @@ Terraform Labs brings you tutorials that help you get hands-on experience using 
 
 > ATTEMPT AT LEAST 1 CLOUD PROVIDER PATH
 
-#### AWS
-  - [Deploy your AWS EKS cluster with Terraform](beginners/aws/eks)
-
-
 #### Azure
  
   - [Getting started with Terraform in Azure](beginners/azure/README.md)
   - [Create a Storage account and Host a static website in Azure](beginners/azure/storageAccount)  
   - [Create AKS Cluster with Container Monitoring](beginners/azure/aks_cluster)
   - [How to use Modules](beginners/azure/module_example)
+  
+#### AWS
+
+  - [Deploy your AWS EKS cluster with Terraform](beginners/aws/eks)
 
 #### GCP
 
