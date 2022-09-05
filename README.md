@@ -58,10 +58,3 @@ Terraform Labs brings you tutorials that help you get hands-on experience using 
 #### GCP
 
   - [Setting up Terraform for Google Cloud Platform](beginners/gcp/README.md)
-
-
-# Terraform Associate Certification
-
-- [Study Guide](https://learn.hashicorp.com/terraform/certification/terraform-associate-study-guide) <br>
-- [HashiCorp Infrastructure Automation Certification](https://www.hashicorp.com/certification/terraform-associate/)<br>
-- [Sample Questions](https://learn.hashicorp.com/terraform/certification/terraform-associate-sample-questions)<br>
