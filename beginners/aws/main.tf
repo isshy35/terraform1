@@ -1,12 +1,9 @@
-terraform {
-  required_providers {
-    aws = {
-      source = "hashicorp/aws"
-      version = "5.26.0"
-    }
-  }
+provider "aws" {
+  version = "~> 5.0"
+  region  = "us-east-1"
 }
 
-provider "aws" {
-  # Configuration options
+# Create a VPC
+resource "aws_vpc" "example" {
+  cidr_block = "10.0.0.0/16"
 }
